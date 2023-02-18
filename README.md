@@ -2,24 +2,24 @@
 
 Description paragraph goes here
 
-#### SubCategory (if appilicable)
+#### Category
 
-Description paragraph for subcategory goes here
+Description paragraph for category goes here
 
 | **Name** |  **Description** | **Comment** | **URL** | **License** |
 |----------|-------------|-------------|---------|-------------|
-| Project X | Official description of Project X | Custom comment on Project X | https://url.dj/ | GPLv2
-| Superbad | Official description of Superbad project | Custom comment on the Superbad project | https://url.dj/ | GPLv3
+| Project X | Official description of Project X | Comments on Project X | https://url.dj/ | GPLv2
+| Superbad | Official description of Superbad project | Comments on the Superbad project | https://url.dj/ | GPLv3
 
-*repeat*
+[*repeat*](#category)
 
 
 
-<!-- Delete or comment from here --> 
+<!-- Comment-out or delete from here --> 
+##### [Markdown helpers for reference; Comment-out or delete from here]
 ------------------------------------------------------------------
 
-###### [Helpers for reference]
-
+Text formatting: 
 *Italic*,
  **Bold**,
  ***Bold and Italic***,
@@ -65,6 +65,7 @@ Internal link to [myfile.pdf](./assets/myfile.pdf)
 :100: - 
 :fire: - 
 :rocket: 
+
 
 
 **Text with footnote**  
