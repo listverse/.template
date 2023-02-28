@@ -45,6 +45,12 @@ External link to [Google](https://www.google.com/)
 Internal link to [myfile.pdf](./assets/myfile.pdf)
 
 
+<details>
+<summary>Toggle me</summary>
+Expanded text comes here 
+</details>
+
+
 **Images**  
 <!-- Markdown --> 
 <!-- ![A cute cat](https://think.dj/dj/images/dj.favico.c.png "Alt text") -->
@@ -65,7 +71,6 @@ Internal link to [myfile.pdf](./assets/myfile.pdf)
 :100: - 
 :fire: - 
 :rocket: 
-
 
 
 **Text with footnote**  
